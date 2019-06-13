@@ -1,0 +1,6 @@
+{
+    "Src\\Repository\\BusRepository": "Bus",
+    "Src\\Repository\\TrainRepository": "Train",
+    "Src\\Repository\\FlightRepository": "Flight",
+    "Src\\Repository\\SeatRepository": "Seat"
+}
